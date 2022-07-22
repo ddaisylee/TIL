@@ -16,6 +16,6 @@
 
 ## 📕 참고 자료
 
-[css 트랜지션! 예제와 함께 알아보아요 (기초)](https://www.youtube.com/watch?v=Zp-n49r9TCA)
+[css 트랜지션! 예제와 함께 알아보아요 (기초)](https://codesandbox.io/s/transform-cji903)
 
 [css 트랜스폼, 예제와 함께 끝!!!](https://www.youtube.com/watch?v=yMjH5Jfqi_o)
