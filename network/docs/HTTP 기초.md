@@ -59,3 +59,15 @@
 - 응답 리소스 데이터이며, 상태코드에 따라 body가 존재하지 않을 수도 있습니다.
 
 ![](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages/http_response_headers3.png)
+
+## ❗️ 3줄 요약
+
+- HTTP 메시지를 통해 HTTP 통신으로 클라이언트와 서버가 데이터를 주고받을 수 있다.
+
+- HTTP 요청 메시지는 Start Line, Headers, Empty Line, Body로 구성된다.
+
+- HTTP 응답 메시지는 Status Line, Headers, Empty Line, Body로 구성된다.
+
+## 📕 참고 자료
+
+[HTTP Messages - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)

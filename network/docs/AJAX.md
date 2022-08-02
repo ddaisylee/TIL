@@ -76,4 +76,14 @@
 
 - 현재는 XML보다 JSON 형식으로 데이터를 주고 받는데, 어떤 단점과 장점이 있고, 어떻게 다를까?
 
--
+## 📕 참고 자료
+
+[Fetch 사용하기 - MDN](https://developer.mozilla.org/ko/docs/Web/API/Fetch_API/Using_Fetch)
+
+[XMLHttpRequest - MDN](https://developer.mozilla.org/ko/docs/Web/API/XMLHttpRequest)
+
+### 참고하면 좋은 자료
+
+[초보자를 위한 XML 설명](https://support.microsoft.com/ko-kr/office/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-xml-%EC%84%A4%EB%AA%85-a87d234d-4c2e-4409-9cbc-45e4eb857d44)
+
+[JSON과 XML](http://www.tcpschool.com/json/json_intro_xml)
